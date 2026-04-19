@@ -1,0 +1,10 @@
+.{
+    .image_path = "Sharp Retro.png",
+    .sheet_width = 256,
+    .sheet_height = 64,
+    .glyph_width = 8,
+    .glyph_height = 16,
+    .ascii_start = 0,
+    .ascii_count = 128,
+    .columns = 32,
+}

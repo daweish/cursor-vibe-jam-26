@@ -1,0 +1,14 @@
+.{
+    .image_path = "space.png",
+    .sheet_width = 48,
+    .sheet_height = 48,
+    .sub_textures = .{
+        .{
+            .name = "panel",
+            .x = 0,
+            .y = 0,
+            .width = 48,
+            .height = 48,
+        },
+    },
+}
