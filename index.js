@@ -352,7 +352,7 @@ function postRun() {
 var wasmBinaryFile;
 
 function findWasmBinary() {
-  return locateFile("sandgine.wasm");
+  return locateFile("index.wasm");
 }
 
 function getBinarySync(file) {
